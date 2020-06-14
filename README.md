@@ -11,6 +11,10 @@ text_rank.lua required
 
 # Usage
 
+```bash
+$ Usage: luajit text_rank.lua 'WORD_VECTORS.TXT' 'SUMMARIZE_COUNT' 'INPUT_TEXT'
+```
+
 - compiile THULAC, place libthulac.dylib or libthulac.so into lib/ dir
 - download models for THULAC, put models into lib/models
 - unpack data/demo_vectors.tar.gz as 'tar xjf data/demo_vectors.tar.bz2 -C data'
