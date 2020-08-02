@@ -1,6 +1,8 @@
 
 # About
 
+[中文简介](http://suchang.net/blog/2020-06.html#p2)
+
 implement [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) in LuaJIT with a modified [thunlp/THULAC](https://github.com/thunlp/THULAC).
 
 text_rank.lua required
